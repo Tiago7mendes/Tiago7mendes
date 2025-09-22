@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Computação.<br>Apaixonado por tecnologia, desenvolvimento de software e análise de sistemas.<br>Gosto de enfrentar novos desafios que me impulsionem a crescer, desenvolver novas competências e colaborar em projetos com propósito. 
+Estudante de Computação.<br>Apaixonado por tecnologia, desenvolvimento de software e análise de sistemas.<br>Gosto de enfrentar novos desafios que me impulsionem a crescer.
 
 
 ## 🌐 Socials:
