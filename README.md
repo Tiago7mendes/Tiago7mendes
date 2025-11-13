@@ -1,44 +1,68 @@
-# 💫 About Me:
-Estudante de Computação.<br>Apaixonado por tecnologia, desenvolvimento de software e análise de sistemas.<br>Gosto de enfrentar novos desafios que me impulsionem a crescer.
+<!-- 🕷️ HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Tiago%20Setti%20Mendes&fontSize=50&fontColor=76FF7A&animation=fadeIn&desc=Desenvolvedor%20Back-End&descAlignY=65&descAlign=50&descSize=18" />
+</p>
 
+# 💫 Sobre mim:
+Estudante de Computação.<br>
+Apaixonado por tecnologia, desenvolvimento de software e análise de sistemas.<br>
+Gosto de enfrentar novos desafios que me impulsionem a crescer.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tiago.setti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagosetti/) 
+---
+
+## 🌐 Redes Sociais:
+<p align="center">
+  <a href="https://instagram.com/tiago.setti" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/tiagosetti/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+</p>
+
+---
 
 # 💻 Tech Stack:
+
 <div align="center">
 
-### **Linguagens**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🧠 **Linguagens Principais**
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,c" height="45" />
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<br><br>
 
-### **Banco de Dados & ORM**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### ⚙️ **Back-End**
+<img src="https://skillicons.dev/icons?i=nodejs" height="45" />
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br><br>
 
-### **Ferramentas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### 🗄️ **Banco de Dados & ORM**
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" height="45" />
+
+<br><br>
+
+### 🎨 **Front-End**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="45" />
+
+<br><br>
+
+### 🧰 **Ferramentas & DevOps**
+<img src="https://skillicons.dev/icons?i=git,docker,postman" height="45" />
 
 </div>
 
+---
+
 # 📊 GitHub Stats:
 <p align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Tiago7mendes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Tiago7mendes&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago7mendes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=Tiago7mendes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tiago7mendes&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiago7mendes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- 🕷️ FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=180&section=footer" />
+</p>
