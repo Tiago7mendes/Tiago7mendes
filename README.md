@@ -27,12 +27,7 @@ Gosto de enfrentar novos desafios que me impulsionem a crescer.
 <div align="center">
 
 ### 🧠 **Linguagens Principais**
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,c" height="45" />
-
-<br><br>
-
-### ⚙️ **Back-End**
-<img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,c,nodejs" height="45" />
 
 <br><br>
 
